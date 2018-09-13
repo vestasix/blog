@@ -16,9 +16,9 @@
 theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 locale: en-US
-title: "My Awesome Site"
-description: "It really is the best."
-baseurl: # the subpath of your site, e.g. "/blog"
+title: "v6"
+description: "let's work together."
+baseurl: "/blog"
 url: "https://vestasix.github.io/blog"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
