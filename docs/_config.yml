@@ -18,7 +18,7 @@ theme: jekyll-theme-so-simple
 locale: en-US
 title: "v6"
 description: "let's work together."
-baseurl: "/blog"
+baseurl: # "/blog"
 url: "https://vestasix.github.io/blog"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
